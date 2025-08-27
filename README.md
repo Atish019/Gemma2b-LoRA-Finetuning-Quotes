@@ -1,6 +1,11 @@
 # Gemma-2-2b Fine-tuning with LoRA on English Quotes Dataset
 
 This project demonstrates how to fine-tune Google's Gemma-2-2b language model using LoRA (Low-Rank Adaptation) technique on an English quotes dataset. The implementation uses 4-bit quantization for memory efficiency and runs on Google Colab.
+##  Google Colab Notebook
+
+You can run the fine-tuning and inference directly on Google Colab using the link below:  
+
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1qu-7mVGleO5jd1tyTKTIGy7Owwub5myU)
 
 ## Overview
 
